@@ -1,0 +1,16 @@
+Player 1 Win:	['Player N°1 won the game']
+
+
+Player 2 Win:	['Player N°2 won the game]
+
+
+Bot win VS player (Stupid level):	['Noob', 'Looser even in stupid level', 'please uninstall']
+
+
+Bot win VS player (Medium level):	['GG easy game', 'Easy peasy leamon squeezy', 'easy game easy life']
+
+
+Bot win VS player (Hard level):	['Never loose versus noobs like you', 'Like every time im tilted from noobs']
+
+
+Player beat the Bot :	['Congrats you beated me', 'nice one', 'GG well played']
